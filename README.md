@@ -24,6 +24,8 @@ dedescan是一款可以扫描所有已公开的dedecms漏洞的扫描器。
 
 用法： python3 dedescan.py
 
+然后直接输入域名即可
+
 ## 已实现的功能
 
 - 后台查找（win）
@@ -62,6 +64,8 @@ dedescan是一款可以扫描所有已公开的dedecms漏洞的扫描器。
 ![](http://ww1.sinaimg.cn/large/007F8GgBly1g61fkee3tnj30pf0cdjta.jpg)
 
 ## 其他说明
+
+
 
 所有exp、poc均为网上收集，若侵犯了您的利益还望联系本人，一定删除，联系方式：cXFsZW5neWlAMTYzLmNvbQ==
 
