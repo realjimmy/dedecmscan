@@ -59,8 +59,7 @@ dedescan是一款可以扫描所有已公开的dedecms漏洞的扫描器。
 
 ## 部分截图
 
-![](http://ww1.sinaimg.cn/large/007F8GgBly1g61fd0uo8ej30mx0d0415.jpg)
-
+![](http://ww1.sinaimg.cn/large/007F8GgBly1g61fkee3tnj30pf0cdjta.jpg)
 
 ## 其他说明
 
