@@ -1,4 +1,4 @@
-# dedecmscan
+![A959A7B612035ABFFB13EF2EC4BE03A8](https://github.com/realjimmy/dedecmscan/assets/35913414/bf13767a-1e7f-4e64-b0f8-97e9853e6639)# dedecmscan
 
 
 
@@ -64,11 +64,6 @@ dedescan是一款可以扫描所有已公开的dedecms漏洞的扫描器。
 ![](http://ww1.sinaimg.cn/large/007F8GgBly1g61fkee3tnj30pf0cdjta.jpg)
 
 ## 其他说明
-
-
-
-所有exp、poc均为网上收集，若侵犯了您的利益还望联系本人，一定删除，联系方式：cXFsZW5neWlAMTYzLmNvbQ==
-
 本程序依赖：
 
 - requests
@@ -77,6 +72,6 @@ dedescan是一款可以扫描所有已公开的dedecms漏洞的扫描器。
 - threading
 - itertools
 
-因为本程序编写只是为了自己使用，未加入批量功能，连多线程都是很随意（甚至都不能算是多线程），有时间再重构吧.....
+forked from zjacai/dedecmscan，原版的库貌似没有了，做个备份
 
 
